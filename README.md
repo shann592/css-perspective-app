@@ -1,6 +1,6 @@
 # css-perspective-playground
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Vue app to demontrate use of vue directives, data properties and binding binding styles.
 
 ## Recommended IDE Setup
 
