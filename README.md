@@ -4,7 +4,7 @@ Simple Vue app to demontrate use of vue directives, data properties and binding 
 
 ## Deployed App
 
-https://ornate-pothos-e19a07.netlify.app/
+https://css-perspective-app.netlify.app/
 
 ## Recommended IDE Setup
 
