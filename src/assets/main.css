@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;700;900&display=swap');
+@import './base.css';
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: rgb(1, 1, 52);
+  overflow: hidden;
+}
+
+css-doodle {
+  pointer-events: none;
+}
